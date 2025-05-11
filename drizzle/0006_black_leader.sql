@@ -1,0 +1,1 @@
+ALTER TABLE "comments" ADD COLUMN "desc" varchar(255) NOT NULL;

@@ -1,0 +1,1 @@
+ALTER TABLE "comments" ADD COLUMN "mystore" varchar(255) DEFAULT 'Default' NOT NULL;

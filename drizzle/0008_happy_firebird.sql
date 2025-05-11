@@ -1,0 +1,1 @@
+ALTER TABLE "comments" RENAME COLUMN "desc" TO "description";
